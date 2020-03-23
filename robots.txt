@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeseiwair.dontcomeknocking.co/sitemap.xml
